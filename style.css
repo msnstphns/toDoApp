@@ -92,3 +92,7 @@ ul li.ticked {
 ul li.ticked::before {
   background-image: url(images/checked.png);
 }
+
+.class {
+  
+}
