@@ -15,7 +15,7 @@
 .todo-app {
   width: 100%;
   max-width: 700px;
-  background: #48dbfb;
+  background: #EBEBEB;
   margin: 100px auto 20px;
   padding: 40px 30px 70px;
   border-radius: 10px;
@@ -48,7 +48,7 @@ input {
   border-radius: 40px;
   outline: none;
   background: transparent;
-  background-color: #48dbfb;
+  background-color: #E0E0E0;
   padding: 10px;
   font-weight: 14px;
 }
@@ -57,6 +57,7 @@ button {
   border-radius: 40px;
   border: none;
   outline: none;
+  background-color: #E0E0E0;
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
@@ -106,6 +107,7 @@ ul li span {
   border-radius: 50%;
 }
 
+/*adds darken background when icon is hovered over*/
 ul li span:hover {
   background: #edeef0;
 }
